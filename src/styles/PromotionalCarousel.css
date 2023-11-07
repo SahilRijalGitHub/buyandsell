@@ -1,0 +1,11 @@
+div.carousel-item{
+    height: 400px;
+    opacity: 0.8;
+}
+img.w-100{
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 400px;
+    
+}

@@ -1,0 +1,16 @@
+#home-aboutus-area{
+    margin-right: 0px;
+}
+#search-bar{
+    width: 60%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#top-bar-nav-bar{
+    background-color: rgb(185, 196, 196);
+}
+li.nav-item-first{
+    margin-left: 15px;
+    margin-right: 15px;
+}

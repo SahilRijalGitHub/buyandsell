@@ -1,0 +1,9 @@
+div.card{
+    width: 25rem;
+    height: 25rem;
+    margin: 30px;
+    display: inline-block;
+    vertical-align: bottom;
+    border-radius: 5px;
+    background-color: rgb(244, 246, 249);
+}

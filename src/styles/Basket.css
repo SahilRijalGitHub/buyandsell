@@ -1,0 +1,40 @@
+div.card-basket{
+    width: 25rem;
+    height: 18rem;
+}
+li.basket-list-group-item{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+}
+#basket-details{
+    text-align: right;
+}
+#counter-div{
+    margin: 20px;
+    margin-right: 0px;
+}
+.button-counter{
+    margin: 10px;
+}
+#counter-number-span{
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#basket-checkout-button-div{
+    text-align: right;
+}
+
+#basket-checkout-button{
+    margin: 10px;
+}
